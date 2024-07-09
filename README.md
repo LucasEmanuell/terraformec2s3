@@ -16,3 +16,6 @@
 
 ### 4. Verificação das Instâncias
 ![Verificação das Instâncias](./rodando.jpg)
+
+### 5. Destruído
+![Destruído](./destroyed.jpg)
